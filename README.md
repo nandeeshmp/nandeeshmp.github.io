@@ -1,3 +1,3 @@
 # Lanyon
 
-code for my blog @ http://blog.nandeesh.com
+code for my blog @ http://www.nandeesh.com
