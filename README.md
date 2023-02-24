@@ -1,2 +1,3 @@
-# nandeeshmp.github.io
-Personal blog
+Coding and DevOps
+
+https://nandeesh.com
