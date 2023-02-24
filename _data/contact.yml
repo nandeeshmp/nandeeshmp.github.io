@@ -4,17 +4,14 @@
   type: youtube
   icon: 'fab fa-youtube'
 -
-  type: telegram
-  icon: 'fab fa-telegram'
--
   type: twitter
   icon: 'fab fa-twitter'
 -
+  type: linkedin
+  icon: 'fab fa-linkedin'
+-
   type: github
   icon: 'fab fa-github'
--
-  type: instagram
-  icon: 'fab fa-instagram'
 
 
 # Uncomment and complete the url below to enable more contact options
