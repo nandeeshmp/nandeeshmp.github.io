@@ -7,9 +7,8 @@ tags: [jenkins]
 render_with_liquid: false
 ---
 
-# Jenkins Groovy Scripting: Extending the Power of Jenkins with Customizations
 
-Hey there, tech enthusiast! Today, we're diving into the exciting world of Jenkins Groovy scripting and how it can supercharge your Jenkins experience by allowing you to customize and extend its capabilities. Imagine having the ability to make Jenkins do exactly what you want it to do - that's where Groovy scripting comes in! So, let's explore the power of Jenkins Groovy scripting and see how it can take your Jenkins setup to the next level.
+In this article, we're diving into the exciting world of Jenkins Groovy scripting and how it can supercharge your Jenkins experience by allowing you to customize and extend its capabilities. Imagine having the ability to make Jenkins do exactly what you want it to do - that's where Groovy scripting comes in! So, let's explore the power of Jenkins Groovy scripting and see how it can take your Jenkins setup to the next level.
 
 ## What is Jenkins Groovy Scripting?
 
