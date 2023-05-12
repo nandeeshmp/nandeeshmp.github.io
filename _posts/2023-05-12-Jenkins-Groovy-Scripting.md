@@ -1,5 +1,5 @@
 ---
-title: Jenkins Groovy Scripting: Extending the Power of Jenkins with Customizations
+title: Jenkins Groovy Scripting - Extending the Power of Jenkins with Customizations
 author: nandeesh
 date: 2023-05-12 10:15:00 +0530
 categories: [Jenkins]
