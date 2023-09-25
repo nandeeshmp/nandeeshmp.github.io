@@ -29,8 +29,8 @@ description: >-                        # used by seo meta and the atom feed
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://nandeesh.com'
 
-github:
-  username: nandeeshmp             # change to your github username
+telegram:
+  username: nandeeshmp 
 
 twitter:
   username: nandeeshmp              # change to your twitter username
@@ -38,8 +38,8 @@ twitter:
 youtube:
   username: nandeeshmp              # change to your youtube username
 
-linkedin:
-  username: nandeeshmp              # change to your linkedin username
+github:
+  username: nandeeshmp             # change to your github username
 
 
 social:
