@@ -1,3 +1,3 @@
-Coding and DevOps
+Quantitative Trading & Investing.
 
 https://nandeesh.com
