@@ -1,3 +1,3 @@
-Quantitative Trading & Investing.
+Quantitative Trading & Investing
 
 https://nandeesh.com
