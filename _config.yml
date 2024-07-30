@@ -29,13 +29,13 @@ description: >-                        # used by seo meta and the atom feed
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://nandeesh.com'
 
-telegram:
-  username: nandeeshmp
+# telegram:
+#   username: nandeeshmp
 
-twitter:
-  username: nandeeshmp              # change to your twitter username
+# twitter:
+#   username: nandeeshmp              # change to your twitter username
 
-youtube:
+linkedin:
   username: nandeeshmp              # change to your youtube username
 
 github:
@@ -49,7 +49,7 @@ social:
   email: notreal@nandeesh.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/nandeeshmp      # change to your twitter homepage
+    # - https://twitter.com/nandeeshmp      # change to your twitter homepage
     - https://www.linkedin.com/in/nandeeshmp
     - https://github.com/nandeeshmp       # change to your github homepage
     # Uncomment below to add more social links

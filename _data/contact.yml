@@ -1,11 +1,11 @@
 #  The contact options.
 
--
-  type: youtube
-  icon: 'fab fa-youtube'
--
-  type: twitter
-  icon: 'fab fa-twitter'
+# -
+#   type: youtube
+#   icon: 'fab fa-youtube'
+# -
+#   type: twitter
+#   icon: 'fab fa-twitter'
 -
   type: linkedin
   icon: 'fab fa-linkedin'
