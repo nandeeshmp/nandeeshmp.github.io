@@ -7,12 +7,12 @@
 ---
 
 #### 💼 **About Me**
-I'm a Software Engineer with over a decade of experience, having transitioned from traditional software development into the fascinating world of Artificial Intelligence. My focus is on building robust AI systems, specializing in **Generative AI**, **LangChain**, and **LLMs**. I'm passionate about leveraging AI to solve real-world business challenges and currently develop enterprise AI applications with **RAG architectures**.
+I'm a Software Engineer with over a decade of experience, having transitioned from traditional software development into the fascinating world of Artificial Intelligence. My focus is on building robust AI systems, specializing in **Generative AI**, **Agentic AI**, **LLMs**, and **LangChain**. I'm passionate about leveraging AI to solve real-world business challenges and currently develop enterprise AI applications with **RAG architectures**.
 
 ---
 
 #### 🛠 **Core Competencies**
-- **AI/ML Development**: LangChain, Generative AI (GenAI), Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Prompt Engineering
+- **AI/ML Development**: Generative AI (GenAI), Agentic AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Prompt Engineering, LangChain
 - **Programming Languages**: Python, Golang, Perl
 - **Cloud & DevOps**: AWS, Docker, Kubernetes, Jenkins, Ansible
 - **Databases**: PostgreSQL, MySQL

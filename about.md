@@ -17,7 +17,7 @@ I'm a Software Engineer with over a decade of experience, having transitioned fr
 ---
 
 #### 🛠 **Core Competencies**
-- **AI/ML Development**: LangChain, Generative AI (GenAI), Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Prompt Engineering
+- **AI/ML Development**: Generative AI (GenAI), Agentic AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Prompt Engineering, LangChain
 - **Programming Languages**: Python, Golang, Perl
 - **Cloud & DevOps**: AWS, Docker, Kubernetes, Jenkins, Ansible
 - **Databases**: PostgreSQL, MySQL
