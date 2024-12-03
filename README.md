@@ -21,5 +21,6 @@ I'm a Software Engineer with over a decade of experience, having transitioned fr
 ---
 
 #### 📫 **Get in Touch**
-- **LinkedIn**: [linkedin.com/in/nandeeshmp](https://www.linkedin.com/in/nandeeshmp)  
-- **Website**: [nandeesh.com](https://nandeesh.com)
+- **LinkedIn**: [linkedin.com/in/nandeeshmp](https://www.linkedin.com/in/nandeeshmp)
+- **YouTube**: [youtube.com/@nandeesh-mp](https://www.youtube.com/@nandeesh-mp)
+- **Blog**: [nandeesh.com](https://nandeesh.com/blog/)

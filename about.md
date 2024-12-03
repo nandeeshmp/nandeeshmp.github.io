@@ -12,7 +12,7 @@ title: About
 ---
 
 #### 💼 **About Me**
-I'm a Software Engineer with over a decade of experience, having transitioned from traditional software development into the fascinating world of Artificial Intelligence. My focus is on building robust AI systems, specializing in **Generative AI**, **LangChain**, and **LLMs**. I'm passionate about leveraging AI to solve real-world business challenges and currently develop enterprise AI applications with **RAG architectures**.
+I'm a Software Engineer with over a decade of experience, having transitioned from traditional software development into the fascinating world of Artificial Intelligence. My focus is on building robust AI systems, specializing in **Generative AI**, **Agentic AI**, **LLMs**, and **LangChain**. I'm passionate about leveraging AI to solve real-world business challenges and currently develop enterprise AI applications with **RAG architectures**.
 
 ---
 
@@ -27,4 +27,5 @@ I'm a Software Engineer with over a decade of experience, having transitioned fr
 
 #### 📫 **Get in Touch**
 - **LinkedIn**: [linkedin.com/in/nandeeshmp](https://www.linkedin.com/in/nandeeshmp)  
-- **Website**: [nandeesh.com](https://nandeesh.com)
+- **YouTube**: [youtube.com/@nandeesh-mp](https://www.youtube.com/@nandeesh-mp)
+- **Blog**: [nandeesh.com](https://nandeesh.com/blog/)
